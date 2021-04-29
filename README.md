@@ -7,3 +7,5 @@ It allows the user to simulate a 3-neuron attractor network, with various settin
 - Simulus (Adjustable pulse wave)
 - Process Noise
 - Kalman Filter
+
+To run the program, run the 'main' file.
